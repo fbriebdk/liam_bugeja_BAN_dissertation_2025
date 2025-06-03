@@ -22,9 +22,9 @@ Academic Year: 2024–2025
 
 ---
 
-## 📁 Datasets
+## Datasets
 
-all datasets that were used in predictions are found in thr datasets_versions/ folder
+all datasets that were used in predictions are found in the datasets_versions/ folder
 
 ---
 
