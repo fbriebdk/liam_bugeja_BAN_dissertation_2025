@@ -95,7 +95,6 @@ jupyter notebook
 
 **Liam Bugeja**
 Undergraduate Dissertation – Malta College of Arts, Science and Technology
-Academic Supervisor: \[Mr. Luke Vella Critien]
 
 ---
 
