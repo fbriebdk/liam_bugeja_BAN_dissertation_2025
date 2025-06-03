@@ -7,7 +7,7 @@ Academic Year: 2024–2025
 ## Project Structure
 
 ```
-🔹 Feature Engineering/          # Scripts to engineer features like xG, momentum, etc.
+🔹 Feature Engineering/          # Scripts to engineer features like expedcted goals, momentum, etc.
 🔹 Logistic Regression/          # Baseline logistic regression model
 🔹 Random Forest/                # Baseline Random forest model
 🔹 Ensemble Method/              # Final ensemble model combining RF and LR models
