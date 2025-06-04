@@ -1,5 +1,6 @@
 This repository contains the code, datasets, and models used in my undergraduate dissertation project:
-**"Predicting Football League Match Outcomes and Final Standings Using Machine Learning and Contextual Feature Engineering"**
+**"Statistical Analysis and Modelling for Predicting Football League
+Outcomes"**
 Academic Year: 2024–2025
 
 ---
